@@ -1,0 +1,432 @@
+2025-03-23T13:28:54.005+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 44420 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T13:28:54.006+09:00 DEBUG 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T13:28:54.008+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T13:28:54.073+09:00  INFO 44420 --- [board] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-23T13:28:54.074+09:00  INFO 44420 --- [board] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-23T13:28:55.236+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T13:28:55.253+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T13:28:55.253+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T13:28:55.296+09:00  INFO 44420 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T13:28:55.297+09:00  INFO 44420 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1222 ms
+2025-03-23T13:28:55.472+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T13:28:55.867+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T13:28:55.922+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T13:28:55.938+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 2.448 seconds (process running for 2.837)
+2025-03-23T13:29:40.833+09:00  INFO 44420 --- [board] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2025-03-23T13:29:40.836+09:00  INFO 44420 --- [board] [Thread-5] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-23T13:29:40.846+09:00  INFO 44420 --- [board] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-23T13:29:40.918+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 44420 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T13:29:40.918+09:00 DEBUG 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T13:29:40.918+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T13:29:41.157+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T13:29:41.159+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T13:29:41.159+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T13:29:41.192+09:00  INFO 44420 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T13:29:41.192+09:00  INFO 44420 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 271 ms
+2025-03-23T13:29:41.246+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T13:29:41.345+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T13:29:41.359+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T13:29:41.364+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 0.479 seconds (process running for 48.263)
+2025-03-23T13:29:41.367+09:00  INFO 44420 --- [board] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-03-23T13:29:42.760+09:00  INFO 44420 --- [board] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2025-03-23T13:29:42.761+09:00  INFO 44420 --- [board] [Thread-7] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-23T13:29:42.768+09:00  INFO 44420 --- [board] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-23T13:29:42.841+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 44420 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T13:29:42.841+09:00 DEBUG 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T13:29:42.841+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T13:29:42.975+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T13:29:42.976+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T13:29:42.976+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T13:29:42.996+09:00  INFO 44420 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T13:29:42.996+09:00  INFO 44420 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 153 ms
+2025-03-23T13:29:43.022+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T13:29:43.072+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T13:29:43.082+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T13:29:43.085+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 0.264 seconds (process running for 49.984)
+2025-03-23T13:29:43.086+09:00  INFO 44420 --- [board] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-03-23T13:30:45.535+09:00  INFO 44420 --- [board] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-03-23T13:30:45.537+09:00  INFO 44420 --- [board] [Thread-11] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-23T13:30:45.544+09:00  INFO 44420 --- [board] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-23T13:30:45.638+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 44420 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T13:30:45.639+09:00 DEBUG 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T13:30:45.639+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T13:30:45.877+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T13:30:45.878+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T13:30:45.879+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T13:30:45.904+09:00  INFO 44420 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T13:30:45.904+09:00  INFO 44420 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 261 ms
+2025-03-23T13:30:45.933+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T13:30:45.975+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T13:30:45.984+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T13:30:45.986+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 0.378 seconds (process running for 112.885)
+2025-03-23T13:30:45.987+09:00  INFO 44420 --- [board] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-03-23T13:31:20.773+09:00  INFO 44420 --- [board] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2025-03-23T13:31:20.774+09:00  INFO 44420 --- [board] [Thread-15] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-23T13:31:20.784+09:00  INFO 44420 --- [board] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-23T13:31:20.865+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 44420 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T13:31:20.866+09:00 DEBUG 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T13:31:20.866+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T13:31:21.076+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T13:31:21.077+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T13:31:21.077+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T13:31:21.097+09:00  INFO 44420 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T13:31:21.098+09:00  INFO 44420 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 230 ms
+2025-03-23T13:31:21.122+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T13:31:21.168+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T13:31:21.177+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T13:31:21.180+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 0.337 seconds (process running for 148.08)
+2025-03-23T13:31:21.181+09:00  INFO 44420 --- [board] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-03-23T13:31:22.592+09:00  INFO 44420 --- [board] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2025-03-23T13:31:22.593+09:00  INFO 44420 --- [board] [Thread-19] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-23T13:31:22.600+09:00  INFO 44420 --- [board] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-23T13:31:22.682+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 44420 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T13:31:22.683+09:00 DEBUG 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T13:31:22.683+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T13:31:22.908+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T13:31:22.909+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T13:31:22.910+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T13:31:22.939+09:00  INFO 44420 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T13:31:22.940+09:00  INFO 44420 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 255 ms
+2025-03-23T13:31:22.975+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T13:31:23.042+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T13:31:23.053+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T13:31:23.057+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 0.396 seconds (process running for 149.956)
+2025-03-23T13:31:23.062+09:00  INFO 44420 --- [board] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-03-23T14:45:25.843+09:00  INFO 44420 --- [board] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 2 class path changes (2 additions, 0 deletions, 0 modifications)
+2025-03-23T14:45:25.847+09:00  INFO 44420 --- [board] [Thread-23] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-23T14:45:25.859+09:00  INFO 44420 --- [board] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-23T14:45:26.010+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 44420 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T14:45:26.010+09:00 DEBUG 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T14:45:26.011+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T14:45:26.236+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T14:45:26.237+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T14:45:26.237+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T14:45:26.252+09:00  INFO 44420 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T14:45:26.252+09:00  INFO 44420 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 238 ms
+2025-03-23T14:45:26.270+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T14:45:26.311+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T14:45:26.319+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T14:45:26.321+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 0.359 seconds (process running for 4593.22)
+2025-03-23T14:45:26.323+09:00  INFO 44420 --- [board] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-03-23T14:45:51.004+09:00  INFO 44420 --- [board] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2025-03-23T14:45:51.005+09:00  INFO 44420 --- [board] [Thread-27] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-23T14:45:51.014+09:00  INFO 44420 --- [board] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-23T14:45:51.114+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 44420 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T14:45:51.115+09:00 DEBUG 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T14:45:51.116+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T14:45:51.278+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T14:45:51.279+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T14:45:51.280+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T14:45:51.299+09:00  INFO 44420 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T14:45:51.300+09:00  INFO 44420 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 181 ms
+2025-03-23T14:45:51.317+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T14:45:51.358+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T14:45:51.368+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T14:45:51.370+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 0.284 seconds (process running for 4618.27)
+2025-03-23T14:45:51.371+09:00  INFO 44420 --- [board] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-03-23T14:46:26.182+09:00  INFO 44420 --- [board] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 2 class path changes (0 additions, 2 deletions, 0 modifications)
+2025-03-23T14:46:26.183+09:00  INFO 44420 --- [board] [Thread-31] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-23T14:46:26.193+09:00  INFO 44420 --- [board] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-23T14:46:26.301+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 44420 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T14:46:26.301+09:00 DEBUG 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T14:46:26.301+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T14:46:26.527+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T14:46:26.528+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T14:46:26.529+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T14:46:26.555+09:00  INFO 44420 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T14:46:26.555+09:00  INFO 44420 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 249 ms
+2025-03-23T14:46:26.576+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T14:46:26.618+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T14:46:26.626+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T14:46:26.630+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 0.359 seconds (process running for 4653.529)
+2025-03-23T14:46:26.631+09:00  INFO 44420 --- [board] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-03-23T14:46:28.030+09:00  INFO 44420 --- [board] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 2 class path changes (2 additions, 0 deletions, 0 modifications)
+2025-03-23T14:46:28.032+09:00  INFO 44420 --- [board] [Thread-35] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-23T14:46:28.042+09:00  INFO 44420 --- [board] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-23T14:46:28.158+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 44420 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T14:46:28.158+09:00 DEBUG 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T14:46:28.159+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T14:46:28.515+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T14:46:28.516+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T14:46:28.517+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T14:46:28.563+09:00  INFO 44420 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T14:46:28.563+09:00  INFO 44420 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 399 ms
+2025-03-23T14:46:28.591+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T14:46:28.635+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T14:46:28.644+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T14:46:28.648+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 0.519 seconds (process running for 4655.547)
+2025-03-23T14:46:28.650+09:00  INFO 44420 --- [board] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-03-23T14:46:46.242+09:00  INFO 44420 --- [board] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2025-03-23T14:46:46.243+09:00  INFO 44420 --- [board] [Thread-39] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-23T14:46:46.250+09:00  INFO 44420 --- [board] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-23T14:46:46.322+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 44420 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T14:46:46.322+09:00 DEBUG 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T14:46:46.322+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T14:46:46.457+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T14:46:46.458+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T14:46:46.459+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T14:46:46.482+09:00  INFO 44420 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T14:46:46.482+09:00  INFO 44420 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 159 ms
+2025-03-23T14:46:46.508+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T14:46:46.566+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T14:46:46.576+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T14:46:46.580+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 0.273 seconds (process running for 4673.479)
+2025-03-23T14:46:46.583+09:00  INFO 44420 --- [board] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-03-23T14:47:39.687+09:00  INFO 44420 --- [board] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 3 class path changes (0 additions, 3 deletions, 0 modifications)
+2025-03-23T14:47:39.689+09:00  INFO 44420 --- [board] [Thread-43] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-23T14:47:39.703+09:00  INFO 44420 --- [board] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-23T14:47:39.807+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 44420 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T14:47:39.808+09:00 DEBUG 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T14:47:39.808+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T14:47:40.020+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T14:47:40.021+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T14:47:40.022+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T14:47:40.046+09:00  INFO 44420 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T14:47:40.046+09:00  INFO 44420 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 236 ms
+2025-03-23T14:47:40.069+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T14:47:40.117+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T14:47:40.125+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T14:47:40.128+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 0.349 seconds (process running for 4727.027)
+2025-03-23T14:47:40.129+09:00  INFO 44420 --- [board] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-03-23T14:47:41.537+09:00  INFO 44420 --- [board] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 4 class path changes (4 additions, 0 deletions, 0 modifications)
+2025-03-23T14:47:41.538+09:00  INFO 44420 --- [board] [Thread-47] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-23T14:47:41.545+09:00  INFO 44420 --- [board] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-23T14:47:41.616+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 44420 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T14:47:41.617+09:00 DEBUG 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T14:47:41.617+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T14:47:41.763+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T14:47:41.765+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T14:47:41.765+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T14:47:41.780+09:00  INFO 44420 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T14:47:41.780+09:00  INFO 44420 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 162 ms
+2025-03-23T14:47:41.808+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T14:47:41.858+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T14:47:41.871+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T14:47:41.874+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 0.274 seconds (process running for 4728.773)
+2025-03-23T14:47:41.876+09:00  INFO 44420 --- [board] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-03-23T15:17:51.484+09:00  INFO 44420 --- [board] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2025-03-23T15:17:51.486+09:00  INFO 44420 --- [board] [Thread-51] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-23T15:17:51.494+09:00  INFO 44420 --- [board] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-23T15:17:51.560+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 44420 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T15:17:51.560+09:00 DEBUG 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T15:17:51.560+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T15:17:51.745+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T15:17:51.746+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T15:17:51.746+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T15:17:51.763+09:00  INFO 44420 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T15:17:51.763+09:00  INFO 44420 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 200 ms
+2025-03-23T15:17:51.779+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T15:17:51.830+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T15:17:51.839+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T15:17:51.842+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 0.313 seconds (process running for 6538.741)
+2025-03-23T15:17:51.843+09:00  INFO 44420 --- [board] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-03-23T15:17:53.250+09:00  INFO 44420 --- [board] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2025-03-23T15:17:53.251+09:00  INFO 44420 --- [board] [Thread-55] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-23T15:17:53.258+09:00  INFO 44420 --- [board] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-23T15:17:53.320+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 44420 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T15:17:53.320+09:00 DEBUG 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T15:17:53.320+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T15:17:53.461+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T15:17:53.462+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T15:17:53.462+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T15:17:53.475+09:00  INFO 44420 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T15:17:53.475+09:00  INFO 44420 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 153 ms
+2025-03-23T15:17:53.492+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T15:17:53.525+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T15:17:53.531+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T15:17:53.533+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 0.233 seconds (process running for 6540.433)
+2025-03-23T15:17:53.534+09:00  INFO 44420 --- [board] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-03-23T15:19:31.048+09:00  INFO 44420 --- [board] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2025-03-23T15:19:31.050+09:00  INFO 44420 --- [board] [Thread-59] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-23T15:19:31.061+09:00  INFO 44420 --- [board] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-23T15:19:31.156+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 44420 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T15:19:31.156+09:00 DEBUG 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T15:19:31.156+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T15:19:31.303+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T15:19:31.303+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T15:19:31.303+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T15:19:31.324+09:00  INFO 44420 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T15:19:31.324+09:00  INFO 44420 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 165 ms
+2025-03-23T15:19:31.350+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T15:19:31.394+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T15:19:31.402+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T15:19:31.404+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 0.267 seconds (process running for 6638.302)
+2025-03-23T15:19:31.405+09:00  INFO 44420 --- [board] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-03-23T15:19:32.822+09:00  INFO 44420 --- [board] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 2 class path changes (2 additions, 0 deletions, 0 modifications)
+2025-03-23T15:19:32.823+09:00  INFO 44420 --- [board] [Thread-63] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-23T15:19:32.831+09:00  INFO 44420 --- [board] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-23T15:19:32.909+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 44420 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T15:19:32.910+09:00 DEBUG 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T15:19:32.910+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T15:19:33.011+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T15:19:33.012+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T15:19:33.012+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T15:19:33.024+09:00  INFO 44420 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T15:19:33.024+09:00  INFO 44420 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 112 ms
+2025-03-23T15:19:33.037+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T15:19:33.062+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T15:19:33.068+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T15:19:33.070+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 0.179 seconds (process running for 6639.969)
+2025-03-23T15:19:33.071+09:00  INFO 44420 --- [board] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-03-23T15:21:41.881+09:00  INFO 44420 --- [board] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2025-03-23T15:21:41.884+09:00  INFO 44420 --- [board] [Thread-67] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-23T15:21:41.895+09:00  INFO 44420 --- [board] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-23T15:21:41.973+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 44420 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T15:21:41.973+09:00 DEBUG 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T15:21:41.974+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T15:21:42.095+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T15:21:42.097+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T15:21:42.097+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T15:21:42.110+09:00  INFO 44420 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T15:21:42.110+09:00  INFO 44420 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 134 ms
+2025-03-23T15:21:42.122+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T15:21:42.144+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T15:21:42.150+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T15:21:42.152+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 0.197 seconds (process running for 6769.052)
+2025-03-23T15:21:42.153+09:00  INFO 44420 --- [board] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-03-23T15:21:43.557+09:00  INFO 44420 --- [board] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2025-03-23T15:21:43.558+09:00  INFO 44420 --- [board] [Thread-71] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-23T15:21:43.565+09:00  INFO 44420 --- [board] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-23T15:21:43.634+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 44420 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T15:21:43.635+09:00 DEBUG 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T15:21:43.635+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T15:21:43.728+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T15:21:43.729+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T15:21:43.729+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T15:21:43.743+09:00  INFO 44420 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T15:21:43.743+09:00  INFO 44420 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 108 ms
+2025-03-23T15:21:43.757+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T15:21:43.782+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T15:21:43.788+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T15:21:43.790+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 0.17 seconds (process running for 6770.688)
+2025-03-23T15:21:43.791+09:00  INFO 44420 --- [board] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-03-23T15:22:22.637+09:00  INFO 44420 --- [board] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2025-03-23T15:22:22.638+09:00  INFO 44420 --- [board] [Thread-75] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-23T15:22:22.649+09:00  INFO 44420 --- [board] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-23T15:22:22.728+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 44420 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T15:22:22.729+09:00 DEBUG 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T15:22:22.729+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T15:22:22.849+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T15:22:22.850+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T15:22:22.851+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T15:22:22.867+09:00  INFO 44420 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T15:22:22.868+09:00  INFO 44420 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 138 ms
+2025-03-23T15:22:22.883+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T15:22:22.923+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T15:22:22.930+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T15:22:22.932+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 0.223 seconds (process running for 6809.831)
+2025-03-23T15:22:22.933+09:00  INFO 44420 --- [board] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-03-23T15:22:24.338+09:00  INFO 44420 --- [board] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2025-03-23T15:22:24.339+09:00  INFO 44420 --- [board] [Thread-79] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-23T15:22:24.349+09:00  INFO 44420 --- [board] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-23T15:22:24.430+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 44420 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T15:22:24.430+09:00 DEBUG 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T15:22:24.431+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T15:22:24.532+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T15:22:24.533+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T15:22:24.534+09:00  INFO 44420 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T15:22:24.546+09:00  INFO 44420 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T15:22:24.546+09:00  INFO 44420 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 113 ms
+2025-03-23T15:22:24.557+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T15:22:24.579+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T15:22:24.585+09:00  INFO 44420 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T15:22:24.585+09:00  INFO 44420 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 0.173 seconds (process running for 6811.485)
+2025-03-23T15:22:24.585+09:00  INFO 44420 --- [board] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-03-23T15:25:34.002+09:00  INFO 36956 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 36956 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T15:25:34.006+09:00 DEBUG 36956 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T15:25:34.008+09:00  INFO 36956 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T15:25:34.120+09:00  INFO 36956 --- [board] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-23T15:25:34.122+09:00  INFO 36956 --- [board] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-23T15:25:35.655+09:00  INFO 36956 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T15:25:35.675+09:00  INFO 36956 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T15:25:35.675+09:00  INFO 36956 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T15:25:35.728+09:00  INFO 36956 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T15:25:35.728+09:00  INFO 36956 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1604 ms
+2025-03-23T15:25:35.910+09:00  INFO 36956 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T15:25:36.296+09:00  INFO 36956 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T15:25:36.356+09:00  INFO 36956 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T15:25:36.373+09:00  INFO 36956 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 3.268 seconds (process running for 3.993)
+2025-03-23T15:27:37.158+09:00  INFO 36956 --- [board] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2025-03-23T15:27:37.162+09:00  INFO 36956 --- [board] [Thread-5] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-23T15:27:37.177+09:00  INFO 36956 --- [board] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-23T15:27:37.293+09:00  INFO 36956 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 36956 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T15:27:37.294+09:00 DEBUG 36956 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T15:27:37.295+09:00  INFO 36956 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T15:27:37.741+09:00  INFO 36956 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T15:27:37.744+09:00  INFO 36956 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T15:27:37.745+09:00  INFO 36956 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T15:27:37.784+09:00  INFO 36956 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T15:27:37.784+09:00  INFO 36956 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 484 ms
+2025-03-23T15:27:37.841+09:00  INFO 36956 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T15:27:38.002+09:00  INFO 36956 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T15:27:38.026+09:00  INFO 36956 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T15:27:38.034+09:00  INFO 36956 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 0.791 seconds (process running for 125.654)
+2025-03-23T15:27:38.041+09:00  INFO 36956 --- [board] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-03-23T15:28:45.186+09:00  INFO 36956 --- [board] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2025-03-23T15:28:45.188+09:00  INFO 36956 --- [board] [Thread-7] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-23T15:28:45.200+09:00  INFO 36956 --- [board] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-23T15:28:45.322+09:00  INFO 36956 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 36956 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T15:28:45.323+09:00 DEBUG 36956 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T15:28:45.323+09:00  INFO 36956 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T15:28:45.655+09:00  INFO 36956 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T15:28:45.657+09:00  INFO 36956 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T15:28:45.658+09:00  INFO 36956 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T15:28:45.689+09:00  INFO 36956 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T15:28:45.690+09:00  INFO 36956 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 362 ms
+2025-03-23T15:28:45.740+09:00  INFO 36956 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T15:28:45.833+09:00  INFO 36956 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T15:28:45.847+09:00  INFO 36956 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T15:28:45.852+09:00  INFO 36956 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 0.568 seconds (process running for 193.473)
+2025-03-23T15:28:45.855+09:00  INFO 36956 --- [board] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-03-23T15:29:15.592+09:00  INFO 36956 --- [board] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2025-03-23T15:29:15.594+09:00  INFO 36956 --- [board] [Thread-11] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-23T15:29:15.608+09:00  INFO 36956 --- [board] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-23T15:29:15.751+09:00  INFO 36956 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 36956 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T15:29:15.752+09:00 DEBUG 36956 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T15:29:15.752+09:00  INFO 36956 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T15:29:16.179+09:00  INFO 36956 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T15:29:16.182+09:00  INFO 36956 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T15:29:16.182+09:00  INFO 36956 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T15:29:16.227+09:00  INFO 36956 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T15:29:16.227+09:00  INFO 36956 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 470 ms
+2025-03-23T15:29:16.259+09:00  INFO 36956 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T15:29:16.354+09:00  INFO 36956 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T15:29:16.367+09:00  INFO 36956 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T15:29:16.372+09:00  INFO 36956 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 0.666 seconds (process running for 223.993)
+2025-03-23T15:29:16.375+09:00  INFO 36956 --- [board] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-03-23T15:29:17.781+09:00  INFO 36956 --- [board] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2025-03-23T15:29:17.783+09:00  INFO 36956 --- [board] [Thread-15] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-23T15:29:17.795+09:00  INFO 36956 --- [board] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-23T15:29:17.926+09:00  INFO 36956 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 36956 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T15:29:17.927+09:00 DEBUG 36956 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T15:29:17.927+09:00  INFO 36956 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T15:29:18.236+09:00  INFO 36956 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T15:29:18.238+09:00  INFO 36956 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T15:29:18.239+09:00  INFO 36956 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T15:29:18.268+09:00  INFO 36956 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T15:29:18.269+09:00  INFO 36956 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 338 ms
+2025-03-23T15:29:18.301+09:00  INFO 36956 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T15:29:18.367+09:00  INFO 36956 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T15:29:18.377+09:00  INFO 36956 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T15:29:18.381+09:00  INFO 36956 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 0.495 seconds (process running for 226.001)
+2025-03-23T15:29:18.383+09:00  INFO 36956 --- [board] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-03-23T15:30:21.856+09:00  INFO 36956 --- [board] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-23T15:30:21.857+09:00  INFO 36956 --- [board] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-03-23T15:30:21.858+09:00  INFO 36956 --- [board] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-03-23T15:31:03.345+09:00  INFO 39468 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Starting BoardApplication using Java 21.0.6 with PID 39468 (D:\myBoot\board\build\classes\java\main started by user in D:\myBoot\board)
+2025-03-23T15:31:03.347+09:00 DEBUG 39468 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-03-23T15:31:03.348+09:00  INFO 39468 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T15:31:03.419+09:00  INFO 39468 --- [board] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-23T15:31:03.420+09:00  INFO 39468 --- [board] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-23T15:31:04.761+09:00  INFO 39468 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T15:31:04.780+09:00  INFO 39468 --- [board] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T15:31:04.780+09:00  INFO 39468 --- [board] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-23T15:31:04.834+09:00  INFO 39468 --- [board] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T15:31:04.835+09:00  INFO 39468 --- [board] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1415 ms
+2025-03-23T15:31:04.983+09:00  INFO 39468 --- [board] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-23T15:31:05.313+09:00  INFO 39468 --- [board] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-23T15:31:05.366+09:00  INFO 39468 --- [board] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T15:31:05.379+09:00  INFO 39468 --- [board] [restartedMain] c.codingrecipe.board.BoardApplication    : Started BoardApplication in 2.571 seconds (process running for 3.059)
+2025-03-23T15:31:12.986+09:00  INFO 39468 --- [board] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-23T15:31:12.987+09:00  INFO 39468 --- [board] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-03-23T15:31:12.987+09:00  INFO 39468 --- [board] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
