@@ -1,2 +1,2 @@
 ## ✏️Board simple project
-### using JDK21, SpringBoot, Mybatis, MySQL
+### using JDK21, SpringBoot, Mybatis, MySQL.
